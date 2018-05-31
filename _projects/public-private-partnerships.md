@@ -15,20 +15,13 @@ layout: full-page
 <a class="usa-button usa-button-outline link--external" href="https://public.govdelivery.com/accounts/KYLOUISVILLE/subscriber/new?category_id=KYLOUISVILLE_C73" target="_blank">Follow this project</a>
 </div>{: .center-image }
 
-A public-private partnership (P3) is a very particular type of contract whereby the public partner (government entity) delegates some of its own responsibilities to a private partner under a long-term contract that defines the rights and obligations of each party during the term as well. They are an important tool for developing infrastructure, and typically involve investment and operation and maintenance. P3s are also used in social infrastructure like health and education, construction and maintenance of a hospital or school facilities, but can also include total or partial clinical or education services.
-
-Public-private partnerships can be used in any sector, and they typically span 15, 20, 25 years, sometimes more, depending on the nature of the project. In that period of time, technology, demographics, environment, and politics can all change, so contracts needs to be flexible to adjust to the project’s life cycle.
-
+A public-private partnership (P3) is a partnership whereby the public partner (government entity) signs an agreement with a private entity to achieve mutually beneficial goals. In some cases, the government delegates some of its own responsibilities to a private partner under a contract that defines the rights and obligations of each party during the term as well. They are an important tool for testing innovations, developing new infrastructure, and typically involve investment and operation and maintenance. 
 
 ### List of partners
 
 - APH
-- Brown Forman
-- GE/FirstBuild
-- Giddy
-- Bloomberg
-- Arnold Foundation
 - IFTTT
+- KY Wired
 - CNET
-- Google
-- LMHA
+- Waze
+- Slingshot & Amazon Web Services
